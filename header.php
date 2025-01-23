@@ -288,7 +288,7 @@
                             <div class="header-left-bar">
                                 <ul class="contact-wrapper">
                                     <li><i class="fa fa-phone text-primary" aria-hidden="true"></i><a href="tel:+959789799799" style="color: black;"> +95 789 799 799</a></li>
-                                    <li><i class="fa fa-envelope" aria-hidden="true"></i>  info@mm-link.net</li>
+                                    <li><i class="fa fa-envelope" aria-hidden="true"></i>itspectrum.com.mm</li>
                                 </ul>
                             </div> <!-- header-left-bar -->
                         </div>

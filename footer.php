@@ -5,7 +5,7 @@
                             <span class="footer-logo col-md-3"><img src="./image/It-Spectum.png" alt="image"></span>
 
                         <div class="col-md-3">
-                             <i class="fa fa-envelope-o text-primary" aria-hidden="true"></i><span><a href="#" style="color: black;"> info@mm-link.net</a></span>
+                             <i class="fa fa-envelope-o text-primary" aria-hidden="true"></i><span><a href="#" style="color: black;"> itspectrum.com.mm</a></span>
                         </div>
 
                         <div class="col-md-3">
@@ -22,17 +22,10 @@
             </div> <!-- footer-container -->
 
             <div class="copy-right">
-                <div class="container">
-                    <p>Copyright &copy; <?php echo date('Y'); ?> IT Spectrum Co.,Ltd</p>
+                <div class="container" style="display:flex ;align-item: center; justify-content: center;">
+                    <p>Copyright &copy; <?php echo date('Y'); ?> IT Spectrum Co.,Ltd.</p>
 
-                    <ul class="social-icon text-right">
-                        <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                        <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                        <li><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
-                        <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-                        <li><a href="#"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
-                        <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                    </ul> <!-- social-icon -->
+                     <!-- social-icon -->
                 </div>
             </div> <!-- copy-right -->
         </footer> <!-- footer-section -->
@@ -61,7 +54,7 @@
                     </div> -->
 
                     <div class="form-group">
-                        <a href="tel:+959 789799799" type="submit" class="subscribeBtn btn-primary">Start contact</a>
+                        <a href="tel:+959789799799" type="submit" class="subscribeBtn btn-primary">Start contact</a>
                     </div>
 
                     <div class="form-group flod-right">

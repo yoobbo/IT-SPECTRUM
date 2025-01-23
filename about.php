@@ -24,16 +24,16 @@
                                 <p class="d-flex justify-content-center mt-4" style="text-align: justify; text-indent: 70px;">
                                     IT Spectrum Company Ltd.,<?= $language === 'မြန်မာ' ? 'အောက်ပါအတိုင်း အင်တာနက်ဝန်ဆောင်မှုများကို ဆောင်ရွက်ပေးပါသည်;' : 'serves Internet as follows;'; ?> 
                                 </p>
-                                <p class="d-flex justify-content-center mt-4" style="text-align: justify; text-indent: 70px;">
+                                <p class="d-flex justify-content-center mt-4" style="text-align: justify; text-indent: 20px;">
                                     <?= $language === 'မြန်မာ' ? 'လူမှုကူညီရေးအဖွဲ့အစည်းများ' : 'NGOs' ; ?>
                                 </p>
-                                <p class="d-flex justify-content-center mt-4" style="text-align: justify; text-indent: 70px;">
+                                <p class="d-flex justify-content-center mt-4" style="text-align: justify; text-indent: 20px;">
                                     <?= $language === 'မြန်မာ' ? 'ကုမ္ပဏီများ' : 'Companies' ; ?>
                                 </p>
-                                <p class="d-flex justify-content-center mt-4" style="text-align: justify; text-indent: 70px;">
+                                <p class="d-flex justify-content-center mt-4" style="text-align: justify; text-indent: 20px;">
                                     <?= $language === 'မြန်မာ' ? 'ဝန်ကြီးဌာနများ' : 'Ministries' ; ?>
                                 </p>
-                                <p class="d-flex justify-content-center mt-4" style="text-align: justify; text-indent: 70px;">
+                                <p class="d-flex justify-content-center mt-4" style="text-align: justify; text-indent: 20px;">
                                     <?= $language === 'မြန်မာ' ? 'အဖွဲအစည်းများ' : 'Public' ; ?>
                                 </p>
                             </div>
@@ -43,31 +43,31 @@
             </div>
             <div class="faqs-area style-one py-5">
                 <div class="container">
-                    <div class="row" style="display: flex; justify-content: space-between;">
-                        <!-- Vision Box -->
-                        <div class="col-lg-5" style="background-color: #f0f8ff; border-radius: 10%;">
-                            <div class="single-contact-box bg-white border rounded shadow p-4">
-                                <h1 class="text-info text-center mb-3" style="text-shadow: 0 0 5px rgba(255, 255, 255, 0.8);">
-                                    Vision
-                                </h1>
-                                <p class="text-body text-center">
-                                    <?= $language === 'မြန်မာ' ? 'မိမိတို့နိုင်ငံ၏ ဖွံ့ဖြိုးမှုနှင့် ယနေ့ခေတ်နည်းပညာလိုအပ်ချက်များကို ဖြည့်ဆည်းရန် အကောင်းဆုံး ICT ဝန်ဆောင်မှုများကို ပေးအပ်ရန်' : 'To provide the best service in essential ICT sector for a modern and developed country.' ?>
-                                    <br><strong><?= $language === 'မြန်မာ' ? '(လူမှုအဖွဲ့အစည်းများကို ချိတ်ဆက်ပေးခြင်း)':'(Connecting people and community)'; ?></strong>
-                                </p>
-                            </div>
-                        </div>
-                        <!-- Mission Box -->
-                        <div class="col-lg-5" style="background-color: #f0f8ff; border-radius: 10%;">
-                            <div class="single-contact-box bg-white border rounded shadow p-4">
-                                <h1 class="text-info text-center mb-3" style="text-shadow: 0 0 5px rgba(255, 255, 255, 0.8);">
-                                    Mission
-                                </h1>
-                                <p class="text-body text-center">
-                                    <?= $language === 'မြန်မာ' ? 'အကောင်းဆုံးအင်တာနက်ဝန်ဆောင်မှုများကို သင့်တော်သောစျေးနှုန်းများတွင် ပေးအပ်၍ လူတိုင်း သုံးနိုင်အောင် ရည်ရွယ်သည်။' : 'To provide the best Internet services at reasonable prices so everyone can access them.'; ?>
-                                </p><br>
-                            </div>
+                <div class="row d-flex justify-content-between align-items-stretch">
+                    <!-- Vision Box -->
+                    <div class="col-lg-5 col-sm-10 mb-3" style="background-color: #f0f8ff; border-radius: 10%; margin: 20px;">
+                        <div class="single-contact-box bg-white border rounded shadow p-4 h-100">
+                            <h1 class="text-info text-center mb-3" style="text-shadow: 0 0 5px rgba(255, 255, 255, 0.8);">
+                                Vision
+                            </h1>
+                            <p class="text-body text-center">
+                                <?= $language === 'မြန်မာ' ? 'မိမိတို့နိုင်ငံ၏ ဖွံ့ဖြိုးမှုနှင့် ယနေ့ခေတ်နည်းပညာလိုအပ်ချက်များကို ဖြည့်ဆည်းရန် အကောင်းဆုံး ICT ဝန်ဆောင်မှုများကို ပေးအပ်ရန်' : 'To provide the best service in essential ICT sector for a modern and developed country.' ?>
+                                <br><strong><?= $language === 'မြန်မာ' ? '(လူမှုအဖွဲ့အစည်းများကို ချိတ်ဆက်ပေးခြင်း)' : '(Connecting people and community)'; ?></strong>
+                            </p>
                         </div>
                     </div>
+                    <!-- Mission Box -->
+                    <div class="col-lg-5 col-sm-10 mb-3" style="background-color: #f0f8ff; border-radius: 10%; margin: 20px;">
+                        <div class="single-contact-box bg-white border rounded shadow p-4 h-100">
+                            <h1 class="text-info text-center mb-3" style="text-shadow: 0 0 5px rgba(255, 255, 255, 0.8);">
+                                Mission
+                            </h1>
+                            <p class="text-body text-center">
+                                <?= $language === 'မြန်မာ' ? 'အကောင်းဆုံးအင်တာနက်ဝန်ဆောင်မှုများကို သင့်တော်သောစျေးနှုန်းများတွင် ပေးအပ်၍ လူတိုင်း သုံးနိုင်အောင် ရည်ရွယ်သည်။' : 'To provide the best Internet services at reasonable prices so everyone can access them.'; ?>
+                            </p>
+                        </div>
+                    </div>
+                </div>
                 </div>
             </div>
         </div>

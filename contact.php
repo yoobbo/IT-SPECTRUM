@@ -39,7 +39,7 @@
                             </div>
                         </div>
                     </div><br><br>
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4402.174446787956!2d96.092337113835!3d19.75290329067622!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30c8bb558aca09b7%3A0xa7001f7132bc7b94!2sLinn%20IT%2C%20Mobile%20%26%20Electronic%20(Myoma)!5e0!3m2!1sen!2smm!4v1737534974688!5m2!1sen!2smm" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d234.68899034459994!2d96.20295981471557!3d19.754141475626604!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30c8b985ca702765%3A0x7a3f46bc96859495!2sMM%20-%20Link!5e0!3m2!1sen!2smm!4v1737639418056!5m2!1sen!2smm" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
             </div>
         </section> <!-- contact-section -->
