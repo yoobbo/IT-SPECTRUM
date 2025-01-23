@@ -19,7 +19,7 @@
                             <div class="contact-wrapper">
                                 <span class="caption"><img src="assets/images/contact/i1.png" alt=""></span>
                                 <h4><?= $language === 'မြန်မာ' ? 'ကျွန်တော်တို့ရုံ' : 'Our Office' ; ?></h4>
-                                <span class="contact"><?= $language === 'မြန်မာ' ? 'နံပါတ် (၁၄/၉၉၅)၊ ၃ ရပ်ကွက်၊ ပေါင်းလောင်းရွာ၊ ပျင်းမနားမြို့နယ်၊ နေပြည်တော်။' :'No. (14/995), 3rd Street, Paung Laung Ward, Pyinmana Township, Naypyitaw.' ?></span>
+                                <span class="contact"><?= $language === 'မြန်မာ' ? 'အမှတ်(၁၄/၅၈၅)၊ ၄ လမ်း၊ ပေါင်းလောင်းရပ်ကွက်၊ ပျဉ်းမနားမြို့နယ်၊ နေပြည်တော်။' :'No. (14/995), 3rd Street, Paung Laung Ward, Pyinmana Township, Naypyitaw.' ?></span>
                             </div>
                         </div>
 
